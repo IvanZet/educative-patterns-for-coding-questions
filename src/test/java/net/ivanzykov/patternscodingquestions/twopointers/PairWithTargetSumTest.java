@@ -1,8 +1,6 @@
-package net.ivanzykov.twopointers;
+package net.ivanzykov.patternscodingquestions.twopointers;
 
 import junit.framework.TestCase;
-
-import java.util.Arrays;
 
 import static org.junit.Assert.assertArrayEquals;
 

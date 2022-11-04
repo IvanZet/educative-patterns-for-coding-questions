@@ -1,12 +1,10 @@
-package net.ivanzykov.twopointers;
+package net.ivanzykov.patternscodingquestions.twopointers;
 
 import junit.framework.TestCase;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
-import static org.junit.Assert.assertArrayEquals;
 
 public class TripletSumToZeroTest extends TestCase {
 

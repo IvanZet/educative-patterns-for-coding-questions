@@ -1,4 +1,4 @@
-package net.ivanzykov.twopointers;
+package net.ivanzykov.patternscodingquestions.twopointers;
 
 import junit.framework.TestCase;
 
